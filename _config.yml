@@ -1,0 +1,14 @@
+layout_spectrum: 0.09359191
+typography_spectrum: 0.762226
+color:
+  lightness: 0.5961214
+  brandStrength: 0.806914
+  saturation: 0.6644182
+  rhythmicContrast: 0.5438449
+  brandColors:
+    - '#FFFFFF'
+    - '#ADB1A7'
+    - '#827D76'
+    - '#5D5145'
+    - '#22211E'
+name: TNP test
